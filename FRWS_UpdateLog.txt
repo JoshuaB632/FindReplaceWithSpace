@@ -1,0 +1,6 @@
+Version 1.0, prototype build
+
+Runs with JRE or JDK on a .java file
+
+Notes:
+The build should be stable enough to work, but requires a lot of cmd and file setup that makes it harder to work with than an .exe asking for a file directory to search. Still good for a prototype build. A couple of things that could be fixed would be the amount of files made. Currently it leaves the original file unchanged, makes a backup which is a copy of that file, and makes a final output file. Ideally the program would ask whether they want the program to edit the original or make a copy. Another addition would simply be making it an .exe or even a .jar to make it more accessible than having to rely on JDK and cmd.
