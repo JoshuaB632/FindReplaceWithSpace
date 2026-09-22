@@ -23,7 +23,7 @@ There will be two inputs necessary, one asking for the name of the file and anot
 
 Instructions for after runtime:
 Once the program runs correctly, it should just go back to the Command Prompt. Once you get to this point, go ahead open a file explorer and find the same location where it was ran. Once there, you should be able to find a couple extra files:
-	FindReplaceWithSpace.java - original file, contains the code written in java
-	FindReplaceWithSpace.class - file with byte code (code that specifically your computer can understand and run)
-	FindReplaceWithSpaceBackup.txt - text file with a copy of the original file. Also tells you what the program read from the file
-	OUTPUT__FindReplaceWithSpace.txt - text file with newlines replacing the previously entered character
+- FindReplaceWithSpace.java - original file, contains the code written in java
+- FindReplaceWithSpace.class - file with byte code (code that specifically your computer can understand and run)
+- FindReplaceWithSpaceBackup.txt - text file with a copy of the original file. Also tells you what the program read from the file
+- OUTPUT__FindReplaceWithSpace.txt - text file with newlines replacing the previously entered character
