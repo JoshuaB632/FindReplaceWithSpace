@@ -6,10 +6,6 @@
 - [Project Overview](#project-overview)
 - [Sample Run](#sample-run)
 
-
-A short custom program that takes in the name of a text file and a case-sensitive whitespace-sensitive string. All occurrences of the string within the text file are replaced with a newline.
-
-
 ### Program Use README
 
 Instructions for executing through CMD:
@@ -36,11 +32,11 @@ Once the program runs correctly, it should just go back to the Command Prompt. O
 - FindReplaceWithSpaceBackup.txt - text file with a copy of the original file. Also tells you what the program read from the file
 - OUTPUT__FindReplaceWithSpace.txt - text file with newlines replacing the previously entered character
 
+### Project Overview
 
+A short custom program that takes in the name of a text file and a case-sensitive whitespace-sensitive string. All occurrences of the string within the text file are replaced with a newline.
 
-
-
-# Sample Run
+### Sample Run
 
 If the file name cannot be found:
 <img width="922" height="88" alt="image" src="https://github.com/user-attachments/assets/4aeecc6f-2a7b-44f8-8fce-3b5e23bd4b95" />
