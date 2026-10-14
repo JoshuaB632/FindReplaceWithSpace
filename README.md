@@ -34,7 +34,7 @@ Once the program runs correctly, it should just go back to the Command Prompt. O
 
 ### Project Overview
 
-A short custom program that takes in the name of a text file and a case-sensitive whitespace-sensitive string. All occurrences of the string within the text file are replaced with a newline.
+This short custom program was designed for a colleague who was having trouble reading the error files produced by the company printers. The program takes in the name of a text file and a case-sensitive whitespace-sensitive string and creates a new file that is a copy of the inputted text file with all occurrences of the string replaced by a newline. I prototyped, received feedback, and updated this program until my colleague had no other feedback. Unfortunately, these previous versions were not saved, only the final version.
 
 ### Sample Run
 
